@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Miguel Ángel
+#### Full-Stack developer
+I'm Miguel Ángel, a versatile professional in the world of technology, with a passion for crafting digital experiences and solving complex challenges. As a Software Full Stack Developer, System Administrator, and a connoisseur of Videogame Development, I thrive at the intersection of creativity and functionality.
 
+Skills: HTML / CSS / JS / REACT / JAVA / C#
+
+- currently working on this page. 
 <!--
 **MAGerena/MAGerena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
